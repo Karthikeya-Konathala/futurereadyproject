@@ -4,7 +4,7 @@
 As my project is related to the lifestyle I've chosen Tattoo as my main theme as now a days these were famous and it is a kind of art and people can able to get awareness about these tattoos through my website.
 Because getting a tattoo should be a great experience. We work with only the best tattoo studios, and we’ll connect you to the right artist for your idea through my website.
 
-## Project Link(deployed in Azure Portal) : https://ambitious-pond-0f2e1cd10.1.azurestaticapps.net/
+## Project Link : https://karthikeya-konathala.github.io/futurereadyproject/
 
 # Demonstartion steps of the project:
 ![1](https://user-images.githubusercontent.com/100104826/174728849-20b1d206-331b-456b-96da-578ff58547a7.png)
